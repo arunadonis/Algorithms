@@ -1,0 +1,2 @@
+# Algorithms
+Word Ladder Algorithm
